@@ -1,4 +1,4 @@
-# ? 100 Days Leetcode Daily Challenge 
+#  100 Days Leetcode Daily Challenge 
 
 | Number of Days | Problem Name | Difficulty | Hints |
 |-----|---------------|------------|--------|
@@ -139,4 +139,4 @@
 |  | Mon Jul 21 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1704. Determine if String Halves Are Alike | Easy | no need to solve second time |  |  |
 |  | Mon Jul 21 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2114. Maximum Number of Words Found in Sentences | Easy | no need to solve second time |  |  |
 |  | Mon Jul 21 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2176. Count Equal and Divisible Pairs in an Array | Easy | interesting |  |  |
-|  | Mon Jul 21 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2185. Counting Words With a Given Prefix | Easy | no need to solve second time |  |  |
+|  | Mon Jul 21 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2185. Counting Words With a Given Prefix | Easy | no need to solve second time sd |  |  |
