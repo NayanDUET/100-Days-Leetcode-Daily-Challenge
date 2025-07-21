@@ -2,6 +2,7 @@
 
 | Number of Days | Problem Name | Difficulty | Hints |
 |-----|---------------|------------|--------|
+| Number of Days | Data | Problem Name | Difficulty | Hints | Column 5 | Column 6 |
 | 1 | Sun Apr 27 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3392. Count Subarrays of Length Three With a Condition | Easy |  Just use float |  |  |
 | 2 | Mon Apr 28 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 35. Search Insert Position | Easy | binary search |  |  |
 |  | Mon Apr 28 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 20. Valid Parentheses | Easy | use stack |  |  |
