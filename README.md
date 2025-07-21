@@ -1,4 +1,4 @@
-#? 100 Days Leetcode Daily Challenge 
+# ? 100 Days Leetcode Daily Challenge 
 
 | Number of Days | Problem Name | Difficulty | Hints |
 |-----|---------------|------------|--------|
