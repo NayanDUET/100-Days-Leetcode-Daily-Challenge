@@ -1,6 +1,5 @@
 #  100 Days Leetcode Daily Challenge 
 
-| Number of Days | Problem Name | Difficulty | Hints |
 |-----|---------------|------------|--------|
 | Number of Days | Data | Problem Name | Difficulty | Hints | Column 5 | Column 6 |
 | 1 | Sun Apr 27 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3392. Count Subarrays of Length Three With a Condition | Easy |  Just use float |  |  |
