@@ -141,5 +141,6 @@
 |  | Mon Jul 21 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2176. Count Equal and Divisible Pairs in an Array | Easy | interesting |  |  |
 |  | Mon Jul 21 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2185. Counting Words With a Given Prefix | Easy | no need to solve second time sd |  |  |
 | 87 | Tue Jul 22 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1725. Number Of Rectangles That Can Form The Largest Square | Easy | no need to solve second time sd |  |  |
-|  | Wed Jul 23 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1732. Find the Highest Altitude | Easy | no need to solve second time sd |  |  |
-|  | Thu Jul 24 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1812. Determine Color of a Chessboard Square | Easy | interesting |  |  |
+|  | Tue Jul 22 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1732. Find the Highest Altitude | Easy | no need to solve second time sd |  |  |
+|  | Tue Jul 22 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1812. Determine Color of a Chessboard Square | Easy | interesting |  |  |
+| 88 | Wed Jul 23 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1717. Maximum Score From Removing Substrings | Medium | good problem |  |  |
