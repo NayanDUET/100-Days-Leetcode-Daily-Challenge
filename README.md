@@ -144,3 +144,10 @@
 |  | Tue Jul 22 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1732. Find the Highest Altitude | Easy | no need to solve second time sd |  |  |
 |  | Tue Jul 22 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1812. Determine Color of a Chessboard Square | Easy | interesting |  |  |
 | 88 | Wed Jul 23 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1717. Maximum Score From Removing Substrings | Medium | good problem |  |  |
+| 89 | Thu Jul 24 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2325. Decode the Message | Easy | no need to solve second time sd |  |  |
+|  | Thu Jul 24 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1688. Count of Matches in Tournament | Easy | no need to solve second time sd |  |  |
+|  | Thu Jul 24 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1323. Maximum 69 Number | Easy | no need to solve second time sd |  |  |
+|  | Thu Jul 24 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1309. Decrypt String from Alphabet to Integer Mapping | Easy | no need to solve second time sd |  |  |
+|  |  | 2644. Find the Maximum Divisibility Score |  |  |  |  |
+|  |  | 2643. Row With Maximum Ones |  |  |  |  |
+|  |  | 2652. Sum Multiples |  |  |  |  |
