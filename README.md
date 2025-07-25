@@ -148,6 +148,6 @@
 |  | Thu Jul 24 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1688. Count of Matches in Tournament | Easy | no need to solve second time sd |  |  |
 |  | Thu Jul 24 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1323. Maximum 69 Number | Easy | no need to solve second time sd |  |  |
 |  | Thu Jul 24 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1309. Decrypt String from Alphabet to Integer Mapping | Easy | no need to solve second time sd |  |  |
-|  |  | 2644. Find the Maximum Divisibility Score |  |  |  |  |
-|  |  | 2643. Row With Maximum Ones |  |  |  |  |
-|  |  | 2652. Sum Multiples |  |  |  |  |
+| 90 | Fri Jul 25 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2652. Sum Multiples | Easy | no need to solve second time sd |  |  |
+|  | Fri Jul 25 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2643. Row With Maximum Ones | Easy | no need to solve second time sd |  |  |
+|  | Fri Jul 25 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2644. Find the Maximum Divisibility Score | Easy | need socond time |  |  |
