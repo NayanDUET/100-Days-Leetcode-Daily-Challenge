@@ -152,6 +152,6 @@
 |  | Fri Jul 25 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2643. Row With Maximum Ones | Easy | no need to solve second time sd |  |  |
 |  | Fri Jul 25 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2644. Find the Maximum Divisibility Score | Easy | need socond time |  |  |
 | 91 | Sat Jul 26 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2037. Minimum Number of Moves to Seat Everyone | Easy | no need to solve second time sd |  |  |
-|  |  | 2053. Kth Distinct String in an Array |  |  |  |  |
+| 92 | Sun Jul 27 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2053. Kth Distinct String in an Array | Easy | no need to solve second time sd |  |  |
 |  |  | 2103. Rings and Rods |  |  |  |  |
 |  |  | 2160. Minimum Sum of Four Digit Number After Splitting Digits |  |  |  |  |
