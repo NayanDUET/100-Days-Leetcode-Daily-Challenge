@@ -155,3 +155,7 @@
 | 92 | Sun Jul 27 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2053. Kth Distinct String in an Array | Easy | no need to solve second time sd |  |  |
 | 93 | Mon Jul 28 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2103. Rings and Rods | Easy | no need to solve second time sd |  |  |
 |  | Mon Jul 28 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2160. Minimum Sum of Four Digit Number After Splitting Digits | Easy | no need to solve second time sd |  |  |
+| 94 | Tue Jul 29 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3512. Minimum Operations to Make Array Sum Divisible by K | Easy | no need to solve second time sd |  |  |
+|  | Tue Jul 29 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3545. Minimum Deletions for At Most K Distinct Characters | Easy | no need to solve second time sd |  |  |
+|  | Tue Jul 29 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3550. Smallest Index With Digit Sum Equal to Index | Easy | no need to solve second time sd |  |  |
+|  |  | 3582. Generate Tag for Video Caption |  |  |  |  |
