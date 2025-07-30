@@ -158,4 +158,11 @@
 | 94 | Tue Jul 29 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3512. Minimum Operations to Make Array Sum Divisible by K | Easy | no need to solve second time sd |  |  |
 |  | Tue Jul 29 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3545. Minimum Deletions for At Most K Distinct Characters | Easy | no need to solve second time sd |  |  |
 |  | Tue Jul 29 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3550. Smallest Index With Digit Sum Equal to Index | Easy | no need to solve second time sd |  |  |
-|  |  | 3582. Generate Tag for Video Caption |  |  |  |  |
+| 95 | Wed Jul 30 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3582. Generate Tag for Video Caption | Easy | no need to solve second time sd |  |  |
+|  | Wed Jul 30 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2574. Left and Right Sum Differences | Easy | no need to solve second time sd |  |  |
+|  | Wed Jul 30 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1304. Find N Unique Integers Sum up to Zero | Easy | no need to solve second time sd |  |  |
+|  | Wed Jul 30 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1331. Rank Transform of an Array | Easy | no need to solve second time sd |  |  |
+|  | Wed Jul 30 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1370. Increasing Decreasing String | Easy | need socond time |  |  |
+|  | Wed Jul 30 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1929. Concatenation of Array | Easy | no need to solve second time sd |  |  |
+|  | Wed Jul 30 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3110. Score of a String | Easy | no need to solve second time sd |  |  |
+|  | Wed Jul 30 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2535. Difference Between Element Sum and Digit Sum of an Array | Easy | no need to solve second time sd |  |  |
