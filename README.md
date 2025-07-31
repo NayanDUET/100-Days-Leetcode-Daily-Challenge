@@ -166,3 +166,7 @@
 |  | Wed Jul 30 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1929. Concatenation of Array | Easy | no need to solve second time sd |  |  |
 |  | Wed Jul 30 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3110. Score of a String | Easy | no need to solve second time sd |  |  |
 |  | Wed Jul 30 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2535. Difference Between Element Sum and Digit Sum of an Array | Easy | no need to solve second time sd |  |  |
+| 96 | Thu Jul 31 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2520. Count the Digits That Divide a Number | Easy | no need to solve second time sd |  |  |
+|  | Thu Jul 31 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2490. Circular Sentence | Easy | no need to solve second time sd |  |  |
+|  | Thu Jul 31 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2496. Maximum Value of a String in an Array | Easy | no need to solve second time sd |  |  |
+|  | Thu Jul 31 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2500. Delete Greatest Value in Each Row | Easy | no need to solve second time sd |  |  |
