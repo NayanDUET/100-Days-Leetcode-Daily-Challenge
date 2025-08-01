@@ -170,3 +170,4 @@
 |  | Thu Jul 31 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2490. Circular Sentence | Easy | no need to solve second time sd |  |  |
 |  | Thu Jul 31 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2496. Maximum Value of a String in an Array | Easy | no need to solve second time sd |  |  |
 |  | Thu Jul 31 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2500. Delete Greatest Value in Each Row | Easy | no need to solve second time sd |  |  |
+| 97 | Fri Aug 01 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3194. Minimum Average of Smallest and Largest Elements | Easy | no need to solve second time sd |  |  |
