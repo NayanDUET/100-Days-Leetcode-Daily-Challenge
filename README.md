@@ -176,7 +176,7 @@
 | 99 | Sun Aug 03 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 3427. Sum of Variable Length Subarrays | Easy | no need to solve second time sd |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Sun Aug 03 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2264. Largest 3-Same-Digit Number in String | Easy | no need to solve second time sd |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Sun Aug 03 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 2744. Find Maximum Number of String Pairs | Easy | good problem |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 100 | Mon Aug 04 2025 10:00:00 GMT+0600 (Bangladesh Standard Time) | 1002. Find Common Characters | Easy | good problem |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
